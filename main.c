@@ -61,7 +61,7 @@ int main()
 			scanf("%d", &komanda);	
 		} else if (komanda == 6)
 		{
-			printf("请输入两个整数：\n");
+			printf("请输入两个整数：");
 			scanf("%d %d", &a, &b);
 			printf("请选择指令：");
 			scanf("%d", &komanda);
